@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "This is my bash"
+echo "This is my bash v1"
